@@ -16,7 +16,7 @@ public class JavaBasics {
 		System.out.println("character stored is: "+l);
 		System.out.println("double value stored is: "+d);
 		System.out.println("boolean stored is: "+check);
-		System.out.println("Rahul Raveendran");
+		
 		
 		//arrays - indexing from 0
 		
