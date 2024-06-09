@@ -17,6 +17,10 @@ public class JavaBasics {
 		System.out.println("double value stored is: "+d);
 		System.out.println("boolean stored is: "+check);
 		
+		System.out.println("Rahul");
+		System.out.println("Rahul");
+		System.out.println("Rahul");
+		
 		
 		//arrays - indexing from 0
 		
